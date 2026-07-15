@@ -1,6 +1,6 @@
 ---
 title: bye-world
-publish: true
+draft: false
 ---
 
 Your normal obsidian note content goes here...hi from bye world.

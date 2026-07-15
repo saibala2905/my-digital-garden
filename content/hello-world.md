@@ -1,6 +1,6 @@
 ---
 title: hello-world
-publish: "true"
+draft: false
 ---
 
 Your normal obsidian note content goes here...
