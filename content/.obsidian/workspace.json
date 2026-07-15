@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bye-world.md",
+                "file": "hello-world.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "bye-world"
+              "title": "hello-world"
             }
           }
         ],
@@ -200,9 +200,9 @@
   },
   "active": "bd24dd4bcb85d2f9",
   "lastOpenFiles": [
+    "bye-world.md",
     "hello-world.md",
     "index.md",
-    "bye-world.md",
     "Hackathon Ideas.md",
     "Machine Learning Reads.md"
   ]
