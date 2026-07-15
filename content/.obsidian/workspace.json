@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-world.md",
+                "file": "Spiderman.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "hello-world"
+              "title": "Spiderman"
             }
           }
         ],
@@ -200,9 +200,14 @@
   },
   "active": "bd24dd4bcb85d2f9",
   "lastOpenFiles": [
-    "bye-world.md",
-    "hello-world.md",
     "index.md",
+    "Spiderman.md",
+    "Pasted image 20260715181211.png",
+    "Pasted image 20260715181146.png",
+    "Pasted image 20260715181158.png",
+    "Pasted image 20260715181128.png",
+    "hello-world.md",
+    "bye-world.md",
     "Hackathon Ideas.md",
     "Machine Learning Reads.md"
   ]
