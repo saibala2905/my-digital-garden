@@ -1,5 +1,5 @@
 ---
-title: My Linked Page
+title: bye-world
 publish: true
 ---
 

@@ -1,4 +1,4 @@
-Testing [[Hello World]]
+Testing [[hello-world]]
 
 
 Hello testing another line.
